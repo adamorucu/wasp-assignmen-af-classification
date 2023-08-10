@@ -3,3 +3,4 @@ ecg-preprocessing/
 codesubset.tar.gz
 *.pth
 *.json
+.DS_Store
